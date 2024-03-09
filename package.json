@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Shinhwa2021/houseselling#readme",
   "dependencies": {
-    "@shinhwa2021/teaprotocol": "^1.0.5",
+    "@shinhwa2021/teaprotocol": "^1.0.6",
     "feishu-notifier": "^1.0.3"
   }
 }
