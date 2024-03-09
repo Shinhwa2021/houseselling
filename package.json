@@ -1,6 +1,6 @@
 {
   "name": "@shinhwa2021/houseselling",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
